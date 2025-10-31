@@ -117,10 +117,7 @@ def on_press(key):
                     else:
                         print(f"{i+1} is already clicked")
 
-                time.sleep(4)
-
-                
-                
+                time.sleep(4)            
     except AttributeError:
         pass
 
